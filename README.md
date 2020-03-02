@@ -1,5 +1,5 @@
 # heroku_net_core_deploy
-Example app deployable to heroku
+Example app deployable to heroku.
 
 ## Important setup
 Heroku makes only certain port avalible to the app via environment `PORT` variable. When using docker containers only way of recieving port number is during runtime.
