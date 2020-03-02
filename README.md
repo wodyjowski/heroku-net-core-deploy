@@ -31,7 +31,7 @@ Push container to heroku using:
 `heroku container:push web -a $APP_NAME`  
 <sub>where $APP_NAME is name of app created in heroku.</sub>
 
-Release container using  
+Release container:
 `heroku container:release web -a $APP_NAME` 
 
 If you are inside git repository cloned from heroku you can omit -a parameter and its value.
