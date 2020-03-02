@@ -27,10 +27,9 @@ In .NET Core you can read environment variables by using `Environment.GetEnviron
 Login to heroku using:  
 `heroku container:login`
 
-Push container to heroku using:
-
+Push container to heroku using:  
 `heroku container:push web -a $APP_NAME`  
-where $APP_NAME is name of app created in heroku.
+<sub>where $APP_NAME is name of app created in heroku.</sub>
 
 Release container using  
 `heroku container:release web -a $APP_NAME` 
