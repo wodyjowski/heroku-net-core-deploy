@@ -1,4 +1,4 @@
-# heroku_net_core_deploy
+# Heroku .NET Core deploy
 Example app deployable to heroku.
 
 ## Important setup
